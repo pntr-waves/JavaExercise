@@ -4,8 +4,7 @@ package exercise317;
 public class MainApp {
 
 	public static void main(String[] args) {
-		HeathProfile heathProfile= new HeathProfile("John", "Adam", 20, 3, 1988, 68.89764 ,209.439);
-
+		HeathProfile heathProfile = new HeathProfile("John", "Adam", 20, 3, 1988, 130, 50);
 		printheathProfile(heathProfile);
 	}
 
